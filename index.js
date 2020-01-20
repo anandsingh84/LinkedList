@@ -1,2 +1,2 @@
 // Linked List Data strucute
-console.log("creating LinkedList data strucute in JavaScript");
+console.log("Creating LinkedList data strucute in JavaScript");
